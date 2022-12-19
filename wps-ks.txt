@@ -2,4 +2,4 @@ WPU KERJASAMA
 - Konsisten untuk belajar setiap hari
 - Harus memahami apa yang dikerjakan
 - Januari harus bisa menyelesaikan web sederhana
-- Bisa kolaborasi dengan lebih banyak orang
+- Paham Dengan front end
