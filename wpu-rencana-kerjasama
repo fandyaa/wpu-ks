@@ -3,8 +3,9 @@ Rencana kerjasama
 
 -Javascript
  *Framework Javasrcript
-  ^ Angular
-  ^ React
+  ^vue
+  ^react
 -PHP
   * Framework PHP
-   ^ Laravel
+   ^ laravel
+
