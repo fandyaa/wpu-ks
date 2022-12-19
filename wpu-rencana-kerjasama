@@ -4,6 +4,7 @@ Rencana kerjasama
 -Javascript
  *Framework Javasrcript
   ^vue
+  ^react
 -PHP
   * Framework PHP
    ^ laravel
